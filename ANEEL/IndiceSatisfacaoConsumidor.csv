@@ -1,0 +1,141 @@
+ideIndiceSatisfacaoConsumidor,nomCategoria,nomEmpresa,qtdPontuacaoEmpresaIASC,qtdPontuacaoBrasilIASC,mesReferencia,anoReferencia,dthProcessamento
+1,Centro-Oeste acima de 30 mil consumidores,CEB,62.55,63.63,0,2003,13/09/2017 00:00:00
+2,Centro-Oeste acima de 30 mil consumidores,CEB,65.80,58.88,0,2004,13/09/2017 00:00:00
+3,Centro-Oeste acima de 30 mil consumidores,CEB,61.42,60.49,0,2006,13/09/2017 00:00:00
+4,Centro-Oeste acima de 30 mil consumidores,CEB,61.14,62.62,0,2008,13/09/2017 00:00:00
+5,Centro-Oeste acima de 30 mil consumidores,CEB,70.33,66.74,0,2009,13/09/2017 00:00:00
+6,Centro-Oeste acima de 30 mil consumidores,CEB-Dis,58.31,57.03,0,2015,13/09/2017 00:00:00
+7,Centro-Oeste acima de 30 mil consumidores,Celg,57.73,61.38,0,2005,13/09/2017 00:00:00
+8,Centro-Oeste acima de 30 mil consumidores,Cemat,66.69,65.39,0,2007,13/09/2017 00:00:00
+9,Centro-Oeste acima de 30 mil consumidores,EMS,66.85,64.86,0,2016,13/09/2017 00:00:00
+10,Centro-Oeste acima de 30 mil consumidores,Enersul,67.54,64.51,0,2002,13/09/2017 00:00:00
+11,Centro-Oeste acima de 30 mil consumidores,Enersul,62.01,64.41,0,2010,13/09/2017 00:00:00
+12,Centro-Oeste acima de 30 mil consumidores,Enersul,62.50,61.51,0,2012,13/09/2017 00:00:00
+13,Centro-Oeste acima de 30 mil consumidores,Enersul,65.30,60.41,0,2013,13/09/2017 00:00:00
+14,Centro-Oeste acima de 30 mil consumidores,Enersul,68.50,67.74,0,2014,13/09/2017 00:00:00
+15,IASC BRASIL,CJE,77.61,61.38,0,2005,13/09/2017 00:00:00
+16,IASC BRASIL,CJE,73.62,60.49,0,2006,13/09/2017 00:00:00
+17,IASC BRASIL,CJE,82.50,65.39,0,2007,13/09/2017 00:00:00
+18,IASC BRASIL,CPFL Leste Paulista,81.48,64.41,0,2010,13/09/2017 00:00:00
+19,IASC BRASIL,Demei,93.00,67.74,0,2014,13/09/2017 00:00:00
+20,IASC BRASIL,DMEPC,77.23,64.51,0,2002,13/09/2017 00:00:00
+21,IASC BRASIL,Eletrocar,72.65,58.88,0,2004,13/09/2017 00:00:00
+22,IASC BRASIL,Hidropan,84.46,66.74,0,2009,13/09/2017 00:00:00
+23,IASC BRASIL,Hidropan,74.20,61.51,0,2012,13/09/2017 00:00:00
+24,IASC BRASIL,Ienergia,83.98,62.62,0,2008,13/09/2017 00:00:00
+25,IASC BRASIL,Iguaçu,74.37,63.63,0,2003,13/09/2017 00:00:00
+26,IASC BRASIL,Mux Energia,84.28,64.86,0,2016,13/09/2017 00:00:00
+27,IASC BRASIL,Mux-Energia,74.81,57.03,0,2015,13/09/2017 00:00:00
+28,IASC BRASIL,Sulgipe,74.37,60.41,0,2013,13/09/2017 00:00:00
+29,Maior Crescimento Anual  (%),AES Sul,36.10,64.86,0,2016,13/09/2017 00:00:00
+30,Maior Crescimento Anual  (%),Boa Vista,71.32,65.39,0,2007,13/09/2017 00:00:00
+31,Maior Crescimento Anual  (%),Caiuá,15.92,63.63,0,2003,13/09/2017 00:00:00
+32,Maior Crescimento Anual  (%),Cemar,43.32,66.74,0,2009,13/09/2017 00:00:00
+33,Maior Crescimento Anual  (%),CER,38.40,64.51,0,2002,13/09/2017 00:00:00
+34,Maior Crescimento Anual  (%),CERR,42.58,60.41,0,2013,13/09/2017 00:00:00
+35,Maior Crescimento Anual  (%),Coelba,23.87,62.62,0,2008,13/09/2017 00:00:00
+36,Maior Crescimento Anual  (%),Companhia Energética de Alagoas,4.31,57.03,0,2015,13/09/2017 00:00:00
+37,Maior Crescimento Anual  (%),Eletrobras Acre,41.00,67.74,0,2014,13/09/2017 00:00:00
+38,Maior Crescimento Anual  (%),Eletrobrás Distribuição Roraima,53.06,64.41,0,2010,13/09/2017 00:00:00
+39,Maior Crescimento Anual  (%),Eletrocar,13.88,58.88,0,2004,13/09/2017 00:00:00
+40,Maior Crescimento Anual  (%),Eletrocar,33.05,61.38,0,2005,13/09/2017 00:00:00
+41,Maior Crescimento Anual  (%),ENF,36.30,61.51,0,2012,13/09/2017 00:00:00
+42,Maior Crescimento Anual  (%),Nova Palma,17.75,60.49,0,2006,13/09/2017 00:00:00
+43,Nordeste,Celb,72.72,65.39,0,2007,13/09/2017 00:00:00
+44,Nordeste,Coelce,78.98,66.74,0,2009,13/09/2017 00:00:00
+45,Nordeste,Cosern,71.44,61.51,0,2012,13/09/2017 00:00:00
+46,Nordeste,EBO,76.09,64.41,0,2010,13/09/2017 00:00:00
+47,Nordeste,EBO,78.70,64.86,0,2016,13/09/2017 00:00:00
+48,Nordeste,Energipe,65.03,60.49,0,2006,13/09/2017 00:00:00
+49,Nordeste,Sulgipe,70.66,64.51,0,2002,13/09/2017 00:00:00
+50,Nordeste,Sulgipe,71.40,63.63,0,2003,13/09/2017 00:00:00
+51,Nordeste,Sulgipe,63.40,58.88,0,2004,13/09/2017 00:00:00
+52,Nordeste,Sulgipe,68.41,61.38,0,2005,13/09/2017 00:00:00
+53,Nordeste,Sulgipe,71.49,62.62,0,2008,13/09/2017 00:00:00
+54,Nordeste,Sulgipe,74.37,60.41,0,2013,13/09/2017 00:00:00
+55,Nordeste,Sulgipe,73.04,67.74,0,2014,13/09/2017 00:00:00
+56,Nordeste,Sulgipe,71.59,57.03,0,2015,13/09/2017 00:00:00
+57,Norte,Boa Vista,58.35,62.62,0,2008,13/09/2017 00:00:00
+58,Norte,CEA,58.30,61.38,0,2005,13/09/2017 00:00:00
+59,Norte,Celtins,63.50,64.51,0,2002,13/09/2017 00:00:00
+60,Norte,Celtins,65.28,63.63,0,2003,13/09/2017 00:00:00
+61,Norte,Celtins,66.69,58.88,0,2004,13/09/2017 00:00:00
+62,Norte,Celtins,51.88,60.49,0,2006,13/09/2017 00:00:00
+63,Norte,Celtins,63.37,66.74,0,2009,13/09/2017 00:00:00
+64,Norte,Celtins,66.31,61.51,0,2012,13/09/2017 00:00:00
+65,Norte,Celtins,60.70,60.41,0,2013,13/09/2017 00:00:00
+66,Norte,Ceron,66.37,65.39,0,2007,13/09/2017 00:00:00
+67,Norte,Eletrobras Amazonas,62.59,67.74,0,2014,13/09/2017 00:00:00
+68,Norte,Eletrobrás Distribuição Rondônia,52.15,57.03,0,2015,13/09/2017 00:00:00
+69,Norte,Eletrobrás Distribuição Rondônia,60.76,64.86,0,2016,13/09/2017 00:00:00
+70,Norte,Eletrobras Distribuição Roraima,62.45,64.41,0,2010,13/09/2017 00:00:00
+71,Sudeste acima de 400 mil consumidores,Cemig,71.13,64.51,0,2002,13/09/2017 00:00:00
+72,Sudeste acima de 400 mil consumidores,Cemig,60.92,58.88,0,2004,13/09/2017 00:00:00
+73,Sudeste acima de 400 mil consumidores,Cemig,68.03,60.49,0,2006,13/09/2017 00:00:00
+74,Sudeste acima de 400 mil consumidores,CEMIG-D,66.71,57.03,0,2015,13/09/2017 00:00:00
+75,Sudeste acima de 400 mil consumidores,CPFL Paulista,69.35,63.63,0,2003,13/09/2017 00:00:00
+76,Sudeste acima de 400 mil consumidores,CPFL Piratininga,68.45,61.38,0,2005,13/09/2017 00:00:00
+77,Sudeste acima de 400 mil consumidores,CPFL Piratininga,65.68,60.41,0,2013,13/09/2017 00:00:00
+78,Sudeste acima de 400 mil consumidores,CPFS,73.76,62.62,0,2008,13/09/2017 00:00:00
+79,Sudeste acima de 400 mil consumidores,Elektro,73.24,65.39,0,2007,13/09/2017 00:00:00
+80,Sudeste acima de 400 mil consumidores,Elektro,72.16,64.41,0,2010,13/09/2017 00:00:00
+81,Sudeste acima de 400 mil consumidores,Elektro,67.88,61.51,0,2012,13/09/2017 00:00:00
+82,Sudeste acima de 400 mil consumidores,Elektro,73.23,67.74,0,2014,13/09/2017 00:00:00
+83,Sudeste acima de 400 mil consumidores,Elektro,69.93,64.86,0,2016,13/09/2017 00:00:00
+84,Sudeste acima de 400 mil consumidores,Eletropaulo,71.51,66.74,0,2009,13/09/2017 00:00:00
+85,Sul acima de 400 mil consumidores,AES,67.77,62.62,0,2008,13/09/2017 00:00:00
+86,Sul acima de 400 mil consumidores,Celesc,73.45,64.51,0,2002,13/09/2017 00:00:00
+87,Sul acima de 400 mil consumidores,Celesc,72.25,65.39,0,2007,13/09/2017 00:00:00
+88,Sul acima de 400 mil consumidores,Celesc,75.98,66.74,0,2009,13/09/2017 00:00:00
+89,Sul acima de 400 mil consumidores,Copel,68.85,63.63,0,2003,13/09/2017 00:00:00
+90,Sul acima de 400 mil consumidores,Copel,74.44,61.38,0,2005,13/09/2017 00:00:00
+91,Sul acima de 400 mil consumidores,Copel,69.96,60.49,0,2006,13/09/2017 00:00:00
+92,Sul acima de 400 mil consumidores,Copel,65.44,61.51,0,2012,13/09/2017 00:00:00
+93,Sul acima de 400 mil consumidores,Copel-Dis,75.24,67.74,0,2014,13/09/2017 00:00:00
+94,Sul acima de 400 mil consumidores,Copel-Dis,73.06,64.86,0,2016,13/09/2017 00:00:00
+95,Sul acima de 400 mil consumidores,RGE,65.17,58.88,0,2004,13/09/2017 00:00:00
+96,Sul acima de 400 mil consumidores,RGE,69.25,64.41,0,2010,13/09/2017 00:00:00
+97,Sul acima de 400 mil consumidores,RGE,68.53,60.41,0,2013,13/09/2017 00:00:00
+98,Sul acima de 400 mil consumidores,RGE,66.32,57.03,0,2015,13/09/2017 00:00:00
+99,Sul e Sudeste acima de 30 mil até 400 mil consumidores,Cajuá,67.91,58.88,0,2004,13/09/2017 00:00:00
+100,Sul e Sudeste acima de 30 mil até 400 mil consumidores,CPEE,73.14,60.49,0,2006,13/09/2017 00:00:00
+101,Sul e Sudeste acima de 30 mil até 400 mil consumidores,CPFL Leste Paulista,81.48,64.41,0,2010,13/09/2017 00:00:00
+102,Sul e Sudeste acima de 30 mil até 400 mil consumidores,CPFL Mococa,77.26,66.74,0,2009,13/09/2017 00:00:00
+103,Sul e Sudeste acima de 30 mil até 400 mil consumidores,CPFL Santa Cruz,72.82,61.51,0,2012,13/09/2017 00:00:00
+104,Sul e Sudeste acima de 30 mil até 400 mil consumidores,DMEPC,77.23,64.51,0,2002,13/09/2017 00:00:00
+105,Sul e Sudeste acima de 30 mil até 400 mil consumidores,DMEPC,74.15,63.63,0,2003,13/09/2017 00:00:00
+106,Sul e Sudeste acima de 30 mil até 400 mil consumidores,DMEPC,71.63,61.38,0,2005,13/09/2017 00:00:00
+107,Sul e Sudeste acima de 30 mil até 400 mil consumidores,DMEPC,81.19,62.62,0,2008,13/09/2017 00:00:00
+108,Sul e Sudeste acima de 30 mil até 400 mil consumidores,EDEVP,72.84,65.39,0,2007,13/09/2017 00:00:00
+109,Sul e Sudeste acima de 30 mil até 400 mil consumidores,EDEVP,84.13,67.74,0,2014,13/09/2017 00:00:00
+110,Sul e Sudeste acima de 30 mil até 400 mil consumidores,ELFSM,68.94,60.41,0,2013,13/09/2017 00:00:00
+111,Sul e Sudeste acima de 30 mil até 400 mil consumidores,EMG,70.12,57.03,0,2015,13/09/2017 00:00:00
+112,Sul e Sudeste acima de 30 mil até 400 mil consumidores,Força e Luz do Oeste,78.15,64.86,0,2016,13/09/2017 00:00:00
+113,Sul e Sudeste e Centro-Oeste até 30 mil consumidores,Mux Energia,84.28,64.86,0,2016,13/09/2017 00:00:00
+114,Sul, Sudeste e Centro-Oeste até 30 mil consumidores,CJE,77.61,61.38,0,2005,13/09/2017 00:00:00
+115,Sul, Sudeste e Centro-Oeste até 30 mil consumidores,CJE,73.62,60.49,0,2006,13/09/2017 00:00:00
+116,Sul, Sudeste e Centro-Oeste até 30 mil consumidores,CJE,82.50,65.39,0,2007,13/09/2017 00:00:00
+117,Sul, Sudeste e Centro-Oeste até 30 mil consumidores,Demei,84.74,67.74,0,2014,13/09/2017 00:00:00
+118,Sul, Sudeste e Centro-Oeste até 30 mil consumidores,EFLUL,69.65,60.41,0,2013,13/09/2017 00:00:00
+119,Sul, Sudeste e Centro-Oeste até 30 mil consumidores,Eletrocar,72.65,58.88,0,2004,13/09/2017 00:00:00
+120,Sul, Sudeste e Centro-Oeste até 30 mil consumidores,Hidropan,75.91,64.51,0,2002,13/09/2017 00:00:00
+121,Sul, Sudeste e Centro-Oeste até 30 mil consumidores,Hidropan,84.46,66.74,0,2009,13/09/2017 00:00:00
+122,Sul, Sudeste e Centro-Oeste até 30 mil consumidores,Hidropan,74.20,61.51,0,2012,13/09/2017 00:00:00
+123,Sul, Sudeste e Centro-Oeste até 30 mil consumidores,Ienergia,83.98,62.62,0,2008,13/09/2017 00:00:00
+124,Sul, Sudeste e Centro-Oeste até 30 mil consumidores,Iguaçu,74.37,63.63,0,2003,13/09/2017 00:00:00
+125,Sul, Sudeste e Centro-Oeste até 30 mil consumidores,MUX - Energia,77.79,64.41,0,2010,13/09/2017 00:00:00
+126,Sul, Sudeste e Centro-Oeste até 30 mil consumidores,Mux-Energia,74.81,57.03,0,2015,13/09/2017 00:00:00
+127,Centro-Oeste acima de 30 mil consumidores,CEB-Dis,66.64,63.16,0,2017,15/03/2018 00:00:00
+128,IASC BRASIL acima de 400 mil unid consumidoras,Copel-Dis,80.69,63.16,0,2017,15/03/2018 00:00:00
+129,IASC BRASIL até 400 mil unid consumidoras,Mux-Energia,83.45,63.16,0,2017,15/03/2018 00:00:00
+130,IASC BRASIL Permissionárias,Cergal,86.76,71.34,0,2017,15/03/2018 00:00:00
+131,Maior Crescimento Anual  (%),Ceral Anitápolis,24.45,71.34,0,2017,15/03/2018 00:00:00
+132,Maior Crescimento Anual  (%),Cocel,40.90,63.16,0,2017,15/03/2018 00:00:00
+133,Nordeste,Sulgipe,72.05,63.16,0,2017,15/03/2018 00:00:00
+134,Norte,-,,,0,2017,15/03/2018 00:00:00
+135,Permissionarias acima 10 mil unid consumidoras,Cergal,86.76,71.34,0,2017,15/03/2018 00:00:00
+136,Permissionarias até 10 mil unid consumidoras,Coopermila,85.31,71.34,0,2017,15/03/2018 00:00:00
+137,Sudeste acima de 400 mil consumidores,Energisa Sul-Sudeste,68.98,63.16,0,2017,15/03/2018 00:00:00
+138,Sul acima de 400 mil consumidores,Copel-Dis,80.69,63.16,0,2017,15/03/2018 00:00:00
+139,Sul e Sudeste acima de 30 mil até 400 mil consumidores,Cocel,80.94,63.16,0,2017,15/03/2018 00:00:00
+140,Sul e Sudeste e Centro-Oeste até 30 mil consumidores,Mux-Energia,83.45,63.16,0,2017,15/03/2018 00:00:00
