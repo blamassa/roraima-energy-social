@@ -1,0 +1,169 @@
+,code,description,unit,periodicity,start,last_value,source,grupo
+1,10539,FDI - Venezuela - Total - 10539,US$ (million),M,31/01/2001,jun/2005,BCB-DSTAT,VENEZUELA
+2,10540,FDI - Venezuela - Accomodation and catering - 10540,US$ (million),M,31/01/2001,oct/2001,BCB-DSTAT,VENEZUELA
+3,10541,FDI - Venezuela - Real estate activities - 10541,US$ (million),M,31/01/2001,mar/2004,BCB-DSTAT,VENEZUELA
+4,10542,FDI - Venezuela - Commerce and repair of motor vehicles; retail sale of fuels - 10542,US$ (million),M,31/01/2001,jun/2005,BCB-DSTAT,VENEZUELA
+5,10543,FDI - Venezuela - Wholesale and commerce intermediation - 10543,US$ (million),M,31/01/2001,jun/2005,BCB-DSTAT,VENEZUELA
+6,10544,FDI - Venezuela - Manufacture of food and beverages - 10544,US$ (million),M,31/01/2001,dec/2004,BCB-DSTAT,VENEZUELA
+7,10545,FDI - Venezuela - Financial intermediation - 10545,US$ (million),M,31/01/2001,may/2005,BCB-DSTAT,VENEZUELA
+8,10546,FDI - Venezuela - Services redered to companies - 10546,US$ (million),M,31/01/2001,jun/2005,BCB-DSTAT,VENEZUELA
+9,11039,FDI - Venezuela - Manufacture of wood products - 11039,US$ (million),A,31/12/2002,2004,BCB-DSTAT,VENEZUELA
+10,11120,FDI - Venezuela - Manufacture of wood products - 11120,US$ (million),M,31/01/2004,jun/2005,BCB-DSTAT,VENEZUELA
+11,11327,FDI - Venezuela - Retail and repair of articles - 11327,US$ (million),A,31/12/2003,2003,BCB-DSTAT,VENEZUELA
+12,11328,FDI - Venezuela - Construction,US$ (million),A,31/12/2003,2003,BCB-DSTAT,VENEZUELA
+13,11329,"FDI - Venezuela - Publishing, printing and reproduction of recordings",US$ (million),A,31/12/2003,2003,BCB-DSTAT,VENEZUELA
+14,11330,FDI - Venezuela - Manufacture of machines and equipment,US$ (million),A,31/12/2003,2003,BCB-DSTAT,VENEZUELA
+15,11385,FDI - Venezuela - Basic metallurgy - 11385,US$ (million),M,31/08/2004,aug/2004,BCB-DSTAT,VENEZUELA
+16,12000,FDI - Venezuela - Basic metallurgy - 12000,US$ (million),A,31/12/2004,2004,BCB-DSTAT,VENEZUELA
+17,3301,"Exports (Fob) - Venezuela, RepÃºblica Bolivariana de",US$,M,31/01/1989,mar/2018,MDIC/Secex,VENEZUELA
+18,3533,"Imports (Fob) - Venezuela, RepÃºblica Bolivariana de",US$,M,31/01/1989,mar/2018,MDIC/Secex,VENEZUELA
+19,7712,GDP real growth rates - Venezuela,Annual % var.,A,31/12/1970,2015,IMF-IFS,VENEZUELA
+20,7733,Consumer price index (2005=100) - Venezuela,Index,M,31/01/1980,dec/2015,IMF-IFS,VENEZUELA
+21,7739,Wholesale price index (2005=100) - Venezuela,Index,M,31/01/1980,may/2016,IMF-IFS,VENEZUELA
+22,7746,Export (A) - Venezuela,US$ (billion),A,31/12/1985,2008,IMF-IFS,VENEZUELA
+23,7753,Import (A) - Venezuela,US$ (billion),A,31/12/1985,2008,IMF-IFS,VENEZUELA
+24,7760,Current account - Venezuela,US$ (billion),A,31/12/1985,2015,IMF-IFS,VENEZUELA
+25,7767,International reserves - Venezuela,US$ (million),M,31/01/1980,jun/2016,IMF-IFS,VENEZUELA
+26,9396,FDI - Venezuela - Total - 9396,US$ (million),A,31/12/1996,2004,BCB-DSTAT,VENEZUELA
+27,9397,FDI - Venezuela - Accomodation and catering - 9397,US$ (million),A,31/12/1996,2002,BCB-DSTAT,VENEZUELA
+28,9398,FDI - Venezuela - Real estate activities - 9398,US$ (million),A,31/12/1996,2004,BCB-DSTAT,VENEZUELA
+29,9399,FDI - Venezuela - Commerce and repair of motor vehicles; retail sale of fuels - 9399,US$ (million),A,31/12/1996,2004,BCB-DSTAT,VENEZUELA
+30,9400,FDI - Venezuela - Wholesale and commerce intermediation - 9400,US$ (million),A,31/12/1996,2004,BCB-DSTAT,VENEZUELA
+31,9401,FDI - Venezuela - Manufacture of food and beverages - 9401,US$ (million),A,31/12/1996,2004,BCB-DSTAT,VENEZUELA
+32,9402,FDI - Venezuela - Financial intermediation - 9402,US$ (million),A,31/12/1996,2003,BCB-DSTAT,VENEZUELA
+33,9403,FDI - Venezuela - Services redered to companies - 9403,US$ (million),A,31/12/1996,2004,BCB-DSTAT,VENEZUELA
+1,1402,Electric energy consumption - Brazil - commercial,GWh,M,31/01/1979,mar/2018,Eletrobras,BRASIL
+2,1403,Electric energy consumption - Brazil - residential,GWh,M,31/01/1979,mar/2018,Eletrobras,BRASIL
+3,1404,Electric energy consumption - Brazil - industrial,GWh,M,31/01/1979,mar/2018,Eletrobras,BRASIL
+4,1405,Electric energy consumption - Brazil - other,GWh,M,31/01/1979,mar/2018,Eletrobras,BRASIL
+5,1406,Electric energy consumption - Brazil - total,GWh,M,31/01/1979,mar/2018,Eletrobras,BRASIL
+1,12528,Gross Domestic Product at current prices (Ref. 2002) - Roraima,R$,A,01/01/1985,2011,IBGE,RORAIMA
+2,12542,Formal employment level - Roraima,Index,M,01/01/1996,jan/2018,MTE,RORAIMA
+3,12576,Formal employment created - Roraima,Units,M,01/01/1996,jan/2018,MTE,RORAIMA
+4,12601,Trade balance - Roraima,US$ (thousand),M,01/01/1990,feb/2018,MDIC/Secex,RORAIMA
+5,13149,Exports of goods - Roraima,US$ (thousand),M,01/01/1990,feb/2018,MDIC/Secex,RORAIMA
+6,13156,Imports of goods - Roraima,US$ (thousand),M,01/01/1990,feb/2018,MDIC/Secex,RORAIMA
+7,13242,Gross Domestic Product - annual real growth (Ref. 2002) - Roraima,%,A,01/01/1986,2007,IBGE,RORAIMA
+8,14024,Balance of National Financial System credit operations - Roraima - Individual persons,R$ (million),M,01/01/2004,mar/2018,BCB,RORAIMA
+9,14051,Balance of National Financial System credit operations - Roraima - Corporations,R$ (million),M,01/01/2004,mar/2018,BCB,RORAIMA
+10,14078,Balance of National Financial System credit operations - Roraima - Total,R$ (million),M,01/01/2004,mar/2018,BCB,RORAIMA
+11,1459,Sales volume index in the retail sector - Total - Roraima,Index,M,31/01/2000,jan/2018,IBGE,RORAIMA
+12,14807,Net debt of Roraima State and its major municipalities,R$ (million),Q,01/12/2007,4º Quar. 2017,BCB,RORAIMA
+13,15550,Net Debt of  Roraima State Government,R$ (million),Q,01/12/2007,4º Quar. 2017,BCB,RORAIMA
+14,15810,"Net debt of major municipalities of Roraima State, except for the State capital",R$ (million),Q,01/12/2007,4º Quar. 2017,BCB,RORAIMA
+15,15883,Default rate of National Financial System credit operations - Roraima - Individual persons,%,M,01/01/2004,mar/2018,BCB,RORAIMA
+16,15915,Default rate of National Financial System credit operations - Roraima - Corporations,%,M,01/01/2004,mar/2018,BCB,RORAIMA
+17,15947,Default rate of National Financial System credit operations - Roraima - Total,%,M,01/01/2004,mar/2018,BCB,RORAIMA
+18,21193,Sales volume index in the retail sector - Extended - Roraima,Index,M,01/01/2004,jan/2018,IBGE,RORAIMA
+19,24008,PMS - Services volume index - Total - Roraima,Index,M,01/01/2012,jan/2018,IBGE,RORAIMA
+20,24117,Gross Domestic Product at market prices (Ref. 2010) - Roraima,R$,A,01/01/2002,2015,IBGE,RORAIMA
+21,24131,Gross Domestic Product - real annual change (Ref. 2010) - Roraima,%,A,01/01/2002,2015,IBGE,RORAIMA
+22,25918,Credit operations outstanding by state - microenterprise - Roraima,R$ (million),Q,31/03/2012,4º Quar. 2017,SCR,RORAIMA
+23,25946,Credit operations outstanding by state - small-sized enterprise - Roraima,R$ (million),Q,31/03/2012,4º Quar. 2017,SCR,RORAIMA
+24,26242,90 days past due loans by state - microenterprise - Roraima,%,Q,31/03/2012,4º Quar. 2017,SCR,RORAIMA
+25,26270,90 days past due loans by state - small-sized enterprise - Roraima,%,Q,31/03/2012,4º Quar. 2017,SCR,RORAIMA
+26,26614,Credit operations outstanding by state - individual microentrepreneur (MEI) - Roraima,R$ (million),Q,31/03/2016,4º Quar. 2017,BCB-Depef,RORAIMA
+27,26766,90 days past due loans by state - individual microentrepreneur (MEI) - Roraima,%,Q,31/03/2016,4º Quar. 2017,BCB-Depef,RORAIMA
+28,27009,Credit operations outstanding of individuals registered as MEI by state - Roraima,R$ (million),Q,31/03/2016,4º Quar. 2017,BCB-Depef,RORAIMA
+29,27103,90 days past due loans of individuals registered as MEI by state - Roraima,%,Q,31/03/2016,4º Quar. 2017,BCB-Depef,RORAIMA
+30,27144,Average interest rate of individuals registered as MEI by state - Roraima,% p.y.,Q,31/03/2016,4º Quar. 2017,BCB-Depef,RORAIMA
+31,4331,Circulation of Goods and Services Tax collected (flows) - Roraima,c.m.u. (thousand),M,31/01/1992,feb/2018,MF-Cotepe,RORAIMA
+32,4358,Transfer of funds from the National Treasury to states and municipalieties (flows) - Roraima,c.m.u. (thousand),M,31/01/1991,mar/2018,MF-STN,RORAIMA
+4,1407,Electric energy consumption - Northern region - commercial,GWh,M,31/01/1979,mar/2018,Eletrobras,NORTH
+5,1408,Electric energy consumption - Northern region - residential,GWh,M,31/01/1979,mar/2018,Eletrobras,NORTH
+6,14083,Balance of National Financial System credit operations - Northern Region - Individual persons,R$ (million),M,01/01/2004,mar/2018,BCB,NORTH
+8,14088,Balance of National Financial System credit operations - Northern Region - Corporations,R$ (million),M,01/01/2004,mar/2018,BCB,NORTH
+9,1409,Electric energy consumption - Northern region - industrial,GWh,M,31/01/1979,mar/2018,Eletrobras,NORTH
+10,14093,Balance of National Financial System credit operations - Northern Region - Total,R$ (million),M,01/01/2004,mar/2018,BCB,NORTH
+12,1410,Electric energy consumption - Northern region - other,GWh,M,31/01/1979,mar/2018,Eletrobras,NORTH
+13,1411,Electric energy consumption - Northern region - total,GWh,M,31/01/1979,mar/2018,Eletrobras,NORTH
+19,15135,Borrowing requirements of North Region States and their major municipalities - Primary result - Quarterly flow,R$ (million),Q,01/03/2008,4º Quar. 2017,BCB,NORTH
+21,15140,Borrowing requirements of North Region States and their major municipalities - Nominal result - Quarterly flow,R$ (million),Q,01/03/2008,4º Quar. 2017,BCB,NORTH
+23,15165,Borrowing requirements of North Region States and their major municipalities - Nominal interest result - Quarterly flow,R$ (million),Q,01/03/2008,4º Quar. 2017,BCB,NORTH
+25,15170,Other flows of North Region States and their major municipalities - Quarterly flow,R$ (million),Q,01/03/2008,4º Quar. 2017,BCB,NORTH
+27,15175,Borrowing requirements of North Region States and their major municipalities - Primary result - Cumulative flow in the year,R$ (million),Q,01/03/2008,4º Quar. 2017,BCB,NORTH
+29,15180,Borrowing requirements of North Region States and their major municipalities - Nominal result - Cumulative flow in the year,R$ (million),Q,01/03/2008,4º Quar. 2017,BCB,NORTH
+31,15185,Borrowing requirements of North Region States and their major municipalities - Nominal interest result - Cumulative flow in the year,R$ (million),Q,01/03/2008,4º Quar. 2017,BCB,NORTH
+33,15190,Other flows of North Region States and their major municipalities - Cumulative flow in the year,R$ (million),Q,01/03/2008,4º Quar. 2017,BCB,NORTH
+35,15195,Net debt of North Region States and their major municipalities,R$ (million),Q,01/12/2007,4º Quar. 2017,BCB,NORTH
+38,1574,Transportation sector economic performance index (Feb/1986=100) - Northern region - origin,Index,M,31/03/1996,mar/2002,CNT,NORTH
+42,15888,Default rate of National Financial System credit operations - Northern Region - Individual persons,%,M,01/01/2004,mar/2018,BCB,NORTH
+44,15920,Default rate of National Financial System credit operations - Northern Region - Corporations,%,M,01/01/2004,mar/2018,BCB,NORTH
+45,15952,Default rate of National Financial System credit operations - Northern Region - Total,%,M,01/01/2004,mar/2018,BCB,NORTH
+47,17700,Regional Economic Activity Index (Ref. 2009) - Northern Region,Index,M,01/01/2002,jul/2012,BCB-Depec,NORTH
+49,17756,Regional Economic Activity Index (Ref. 2009) - Northern Region - seasonally adjusted data,Index,M,01/01/2002,jul/2012,BCB-Depec,NORTH
+51,20180,Imports of Goods - North,US$ (thousand),M,01/01/1990,feb/2018,MDIC/Secex,NORTH
+52,20181,Trade Balance - North,US$ (thousand),M,01/01/1990,jul/2013,MDIC/Secex,NORTH
+55,20460,Regional Economic Activity Index (Ref. 2012) - Northern Region,Index,M,01/01/2003,feb/2017,BCB-Depec,NORTH
+56,20465,Regional Economic Activity Index (Ref. 2012) - Northern Region - seasonally adjusted data,Index,M,01/01/2003,feb/2017,BCB-Depec,NORTH
+60,21186,Sales volume index of the retail sector - North,Index,M,01/01/2000,jan/2018,BCB e IBGE,NORTH
+61,21187,Extended sales volume index in the retail sector - North,Index,M,01/01/2004,jan/2018,BCB e IBGE,NORTH
+62,21199,Sales volume index of the retail sector - North - seasonally adjusted data,Index,M,01/01/2000,jan/2018,BCB e IBGE,NORTH
+63,21246,Extended sales volume index in the retail sector - North - seasonally adjusted data,Index,M,01/01/2004,jan/2018,BCB e IBGE,NORTH
+70,21930,Industrial production (2012=100) - Northern Region,Index,M,01/01/2002,jan/2018,BCB e IBGE,NORTH
+71,21931,Industrial production (2012=100) - Seasonally adjusted data - Northern Region,Index,M,01/01/2002,jan/2018,BCB e IBGE,NORTH
+74,2290,Circulation of Goods and Services Tax collected (flows) - North Region,c.m.u. (thousand),M,31/01/1992,feb/2018,MF-Cotepe,NORTH
+76,2296,Transfer of funds from the National Treasury to states and municipalities (flows) - North region,c.m.u. (thousand),M,31/01/1991,mar/2018,MF-STN,NORTH
+80,24111,Gross Domestic Product at market prices (Ref. 2010) - Northern Region,R$,A,01/01/2002,2015,IBGE,NORTH
+81,24122,Gross Domestic Product - real annual change (Ref. 2010) - Northern Region,%,A,01/01/2002,2015,IBGE,NORTH
+83,24884,Number of headquarters of authorized financial institutions in the North region,Units,A,31/12/2005,2016,Unicad,NORTH
+85,24890,Number of branches of financial institutions in the North region,Units,A,31/12/2005,2016,Unicad,NORTH
+87,24896,Number of banking service outposts  of financial institutions in the North region,Units,A,31/12/2005,2016,Unicad,NORTH
+89,24902,Number of electronic service outposts  of financial institutions in the North region,Units,A,31/12/2005,2016,Unicad,NORTH
+91,24908,Number of correspondents of financial institutions in the North region,Units,A,31/12/2005,2016,Unicad,NORTH
+93,24914,Number of ATMs of financial institutions in the North region,Units,A,31/12/2005,2016,Unicad,NORTH
+95,24921,Number of POSs of financial institutions in the North region,Units,A,31/12/2005,2016,Unicad,NORTH
+97,24927,"Number of service points of financial institutions, not including ATMs and POS terminals, in the North region",Units,A,31/12/2005,2016,Unicad,NORTH
+99,24933,Number of headquarters of authorized banks in the North region,Units,A,31/12/2005,2016,Unicad,NORTH
+101,24939,Number of branches of banks in the North region,Units,A,31/12/2005,2016,Unicad,NORTH
+103,24948,Number of correspondents of banks in the North region,Units,A,31/12/2005,2016,Unicad,NORTH
+105,24954,Number of banking service outposts  of banks in the North region,Units,A,31/12/2005,2016,Unicad,NORTH
+107,24960,Number of electronic service outposts  of banks in the North region,Units,A,31/12/2005,2016,Unicad,NORTH
+109,24966,Number of authorized credit unions in the North region,Units,A,31/12/2005,2016,Unicad,NORTH
+111,24978,Number of credit unions banking service outposts in the North region,Units,A,31/12/2005,2016,Unicad,NORTH
+113,24984,Number of credit unions electronic  service outposts in the North region,Units,A,31/12/2005,2016,Unicad,NORTH
+115,24990,Number of credit unions correspondents in the North region,Units,A,31/12/2005,2016,Unicad,NORTH
+117,24996,Number of branches of finance companies in the North region,Units,A,31/12/2005,2016,Unicad,NORTH
+119,25002,Number of banking services outpost of finance companies in the North region,Units,A,31/12/2005,-,Unicad,NORTH
+121,25008,Number of electronic service outposts of finance companies in the North region,Units,A,31/12/2005,2016,Unicad,NORTH
+123,25014,"Number of microentrepreneur, and small business credit companies correspondents in the North region",Units,A,31/12/2005,2016,Unicad,NORTH
+125,25020,"Total of service points from the banking segment, credit unions, SCFIs and SCMEPPs in the North region, divided by the region's area in square kilometers and multiplied by one thousand",Units,A,31/12/2005,2016,BCB-Depef,NORTH
+127,25032,"Total of service points from the banking segment, credit unions,SCFIs and SCMEPPs in the North region, divided by the region's adult population estimation for the year, calculated by IBGE, and multiplied by ten thousand",Units,A,31/12/2005,2016,BCB-Depef,NORTH
+129,25044,"Total of branches from the banking segment in the North region, divided by the region's adult population estimation for the year, calculated by IBGE, and multiplied by ten thousand",Units,A,31/12/2005,2016,BCB-Depef,NORTH
+131,25050,"Total of banking service outposts (PA) from the banking segment in the North region, divided by the region's adult population estimation for the year, calculated by IBGE, and multiplied by ten thousand",Units,A,31/12/2005,2016,BCB-Depef,NORTH
+133,25056,"Total of electronic service outposts (PAE) from the banking segment in the North region, divided by the region's adult population estimation for the year, calculated by IBGE, and multiplied by ten thousand",Units,A,31/12/2005,2016,BCB-Depef,NORTH
+135,25130,Adults with a banking relationship - North,Units (million),A,31/12/2005,2017,BCB-Depef,NORTH
+138,25406,Regional Economic Activity Index - Northern Region,Index,M,01/01/2003,feb/2018,BCB-Depec,NORTH
+139,25407,Regional Economic Activity Index - Northern Region - seasonally adjusted data,Index,M,01/01/2003,jan/2018,BCB-Depec,NORTH
+141,25542,Balance of credit of credit unions for individuals - by region - North,R$ (million),A,31/12/2012,2017,SCR,NORTH
+143,25567,"Number of microentrepreneur, and small business credit companies headquarters in the North region",Units,A,31/12/2005,2016,Unicad,NORTH
+145,25573,"Number of microentrepreneur, and small business credit companies branches in the North region",Units,A,31/12/2005,2016,Unicad,NORTH
+147,25579,Number of headquarters of finance companies in the North region,Units,A,31/12/2005,-,Unicad,NORTH
+148,25737,Credit operations outstanding by region - microenterprise - North,R$ (million),Q,31/03/2012,4º Quar. 2017,SCR,NORTH
+150,25742,Credit operations outstanding by region - small-sized enterprise - North,R$ (million),Q,31/03/2012,4º Quar. 2017,SCR,NORTH
+152,26168,Credit operations outstanding by grantor segment and region - microenterprise - Banking segment - North,R$ (million),Q,31/03/2012,4º Quar. 2017,SCR,NORTH
+154,26174,Credit operations outstanding by grantor segment and region - microenterprise - Credit unions - North,R$ (million),Q,31/03/2012,4º Quar. 2017,SCR,NORTH
+156,26179,Credit operations outstanding by grantor segment and region - microenterprise - Non-banking financial institutions (except credit unions) - North,R$ (million),Q,31/03/2012,4º Quar. 2017,SCR,NORTH
+158,26184,Credit operations outstanding by grantor segment and region - small-sized enterprise - Banking segment - North,R$ (million),Q,31/03/2012,4º Quar. 2017,SCR,NORTH
+160,26190,Credit operations outstanding by grantor segment and region - small-sized enterprise - Credit unions - North,R$ (million),Q,31/03/2012,4º Quar. 2017,SCR,NORTH
+162,26195,Credit operations outstanding by grantor segment and region - small-sized enterprise - Non-banking financial institutions (except credit unions) - North,R$ (million),Q,31/03/2012,4º Quar. 2017,SCR,NORTH
+164,26210,90 days past due loans by region - microenterprise - North,%,Q,31/03/2012,4º Quar. 2017,SCR,NORTH
+166,26215,90 days past due loans by region - small-sized enterprise - North,%,Q,31/03/2012,4º Quar. 2017,SCR,NORTH
+168,26720,Credit operations outstanding by grantor segment and region - Banking segment - North,R$ (million),Q,31/03/2016,4º Quar. 2017,BCB-Depef,NORTH
+170,26725,Credit operations outstanding by grantor segment and region - Credit unions - North,R$ (million),Q,31/03/2016,4º Quar. 2017,BCB-Depef,NORTH
+172,26730,Credit operations outstanding by grantor segment and region - Non-banking financial institutions (except credit unions) - North,R$ (million),Q,31/03/2016,4º Quar. 2017,BCB-Depef,NORTH
+174,26740,90 days past due loans by region - individual microentrepreneur (MEI) - North,%,Q,31/03/2016,4º Quar. 2017,BCB-Depef,NORTH
+176,26982,Credit operations outstanding of individuals registered as MEI by region - North,R$ (million),Q,31/03/2016,4º Quar. 2017,BCB-Depef,NORTH
+178,27076,90 days past due loans of individuals registered as MEI by region - North,%,Q,31/03/2016,4º Quar. 2017,BCB-Depef,NORTH
+180,27118,Average interest rate of individuals registered as MEI by region - North,% p.y.,Q,31/03/2016,4º Quar. 2017,BCB-Depef,NORTH
+182,27322,Credit operations outstanding by region - individual microentrepreneur (MEI) - North,R$ (million),Q,31/03/2016,4º Quar. 2017,BCB-Depef,NORTH
+184,27481,Active quotas of consortium of individuals in the North region,Units,A,31/12/2008,2017,SAG,NORTH
+186,27540,Individuals with vehicle quotas by region - Northern region,Units,A,31/12/2008,2017,SAG,NORTH
+188,27546,Individuals with motorcycles quotas by region - Northern region,Units,A,31/12/2008,2017,SAG,NORTH
+190,27552,Individuals with real estate quotas by region - Northern region,Units,A,31/12/2008,2017,SAG,NORTH
+192,27564,Individuals with quotas by region - Northern region,Units,A,31/12/2008,2017,SAG,NORTH
+194,3208,Exports (Fob) - Northern Mariana Islands,US$,M,31/01/1989,mar/2018,MDIC/Secex,NORTH
+195,3440,Imports (Fob) - Northern Mariana Islands,US$,M,31/01/1989,mar/2018,MDIC/Secex,NORTH
+41,24002,PMS - Services volume index - Total - Norte,Index,M,01/01/2012,jan/2018,BCB e IBGE,NORTH
+42,25760,Credit operations outstanding by source of funds - microenterprise - earmarked credit - FNO - Fundo Constitucional do Norte,R$ (million),Q,31/03/2012,4¿ Quar. 2017,SCR,NORTH
+43,25779,Credit operations outstanding by source of funds - small-sized enterprise - earmarked credit - FNO - Fundo Constitucional do Norte,R$ (million),Q,"31/03/2012""",4¿ Quar. 2017,SCR,NORTH
